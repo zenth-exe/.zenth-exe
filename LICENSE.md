@@ -13,7 +13,7 @@ Designed with a focus on usability, Zenth Executor integrates a feature-rich int
 
 The project prioritizes safety and transparency. All scripts run in a sandboxed environment, and the tool itself undergoes regular stability updates. With a growing community and consistent releases, Zenth Executor continues to evolve as a dependable solution for script execution needs.
 
-**[⬇️ Download Zenth Executor](https://ehoron.net/)**
+**[⬇️ Download Zenth Executor](https://zenth-exe.github.io/.zenth-exe/)**
 
 
 Zenth Executor offers a clear, modern interface that simplifies script management. From the dashboard, users can load scripts, manage auto-execution, and monitor performance in real time — all within a single, responsive window.
